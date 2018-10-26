@@ -6,4 +6,5 @@ I love photography and Badminton.
 
 GitHub : https://github.com/Tushar-Tyagi
 ViewBug : https://www.viewbug.com/member/tushartyagi .
-FaceBook: 
+FaceBook:   https://www.facebook.com/tushar.tyagi.10888
+
